@@ -1,0 +1,6 @@
+@CDV_Systemy_I_Platformy_Zarzadzania_Trescia_HostAddress = http://localhost:5012
+
+GET {{CDV_Systemy_I_Platformy_Zarzadzania_Trescia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
