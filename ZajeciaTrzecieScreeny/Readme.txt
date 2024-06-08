@@ -1,0 +1,1 @@
+Ze wzgledu na problemy techniczne w trakcie zajęć robione grupowo 
